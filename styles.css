@@ -1,0 +1,32 @@
+h1 {
+    text-align:center;
+    }
+    
+.ice-cream-text {
+    color:pink; 
+}
+
+.chicken-text{
+   color:red; 
+    }
+.sushi{
+  color:purple;
+}
+
+.cookies{
+   color:brown; 
+    }
+    
+img{
+    width:50%; 
+   height:50%;
+   border: 7px solid rgba(255, 255, 255, .5);
+   }
+   
+body{ 
+    text-align:center;
+    background-image:url("https://www.muralswallpaper.com/app/uploads/cracked-natural-marble-textures-plain-820x532.jpg;");
+    font-family:'Slabo 27px', serif;
+    
+    }
+    
